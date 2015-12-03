@@ -1,4 +1,4 @@
-var calController = require('./app/controller');
+var calController = require('./app/calController');
 
 var add = calController.add(5, 2);
 var sub = calController.sub(5, 2);
